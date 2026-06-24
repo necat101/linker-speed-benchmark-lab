@@ -1,0 +1,27 @@
+# Generated files
+corpus/
+*.o
+*.a
+*.so
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+# Build artifacts
+/bin/
+/obj/
+*.exe
+*.out
+/results/
+
+# Temporary files
+/tmp/
+*.tmp
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
